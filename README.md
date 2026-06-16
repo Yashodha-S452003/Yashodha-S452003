@@ -19,29 +19,10 @@
 <!-- ===================== 3. CODE-BLOCK ABOUT ME ===================== -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
-class Yashodha {
-    private String name = "Yashodha S";
-    private String location = "Karnataka, India";
-    private String degree = "B.E. in Computer Science (2022 - 2026)";
+🚀 Passionate about building scalable web applications and distributed systems, with a growing interest in how development and operations work together in real-world environments.
 
-    private String[] stack = {
-        "Java", "Spring Boot", "ReactJS", "JDBC", "Servlets",
-        "HTML5", "CSS3", "Bootstrap", "MySQL", "SQL", "PL/SQL", "AWS Cloud"
-    };
+💻 I work primarily with Java, Spring Boot, React, and MySQL, and I'm currently deepening my skills in DevOps practices, cloud technologies, and Microservices architecture to build modern, production-ready applications.
 
-    private String[] currentlyLearning = {
-        "Advanced Spring Boot", "Microservices", "System Design", "Advanced DSA"
-    };
-
-    private String funFact =
-        "Built an NLP-based Cyberbullying Detection System called Intel Shield";
-
-    public String motto() {
-        return "Clean code today, scalable systems tomorrow.";
-    }
-}
-```
 
 <br clear="right"/>
 
@@ -101,9 +82,7 @@ class Yashodha {
 </p>
 
 <!-- ===================== 9. TROPHY WALL ===================== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashodha-S452003&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</p>
+
 
 <!-- ===================== 10. WORK EXPERIENCE ===================== -->
 ## 💼 Work Experience
