@@ -1,6 +1,12 @@
 <!-- ===================== 1. HERO BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yashodha%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer&descAlignY=62&descSize=16" alt="header banner"/>
+  <h1 align="center">Hi 👋, I'm Yashodha S</h1>
+
+<h3 align="center">Java Full Stack Developer</h3>
+
+<p align="center">
+Java | Spring Boot | Hibernate | JDBC | REST APIs | MySQL | React | AWS | Docker | Jenkins
+</p>
 </p>
 
 <!-- ===================== 2. TYPING HEADER ===================== -->
@@ -38,21 +44,25 @@
 **Frameworks & Frontend**
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/JDBC-336791?style=flat-square"/>
   <img src="https://img.shields.io/badge/Servlets-D2232A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
 **Cloud & DevOps**
 <p>
   <img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-D2232A?style=flat-square&logo=apachetomcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 </p>
 
 **Databases**
@@ -107,24 +117,11 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Family Expense Tracker](https://github.com/Yashodha-S452003)** | Java, JDBC, MySQL, ReactJS, HTML, CSS | Web app to manage family income, expenses, and budgets; integrated DB connectivity, SQL operations, and a responsive UI; tested and debugged for reliable performance. |
-| **[Intel Shield – Cyberbullying Detection System](https://github.com/Yashodha-S452003)** | Python, Machine Learning, NLP | ML-based system to predict cyberbullying via data preprocessing, feature extraction, model training, and optimization; applied NLP for text classification to detect harmful/abusive messages. |
+| **[Personal Finance Manager](https://github.com/Yashodha-S452003/financeManager)** | Java, Spring Boot, Spring Data JPA, MySQL, ReactJS, HTML, CSS, Bootstrap | Developed a full-stack personal finance management application with secure user authentication, CRUD operations for income and expenses, REST APIs, MySQL integration, and an interactive financial dashboard. |
+| **[CI/CD Pipeline for E-Commerce Website](https://github.com/Yashodha-S452003/ci-cd_pipeline_for_ecommerce_website)** | Docker, Jenkins, GitHub, AWS, Nginx | Designed and implemented a CI/CD pipeline to automate code integration, Docker image creation, deployment, and application delivery using Jenkins, Docker, GitHub, and AWS, improving deployment efficiency and reliability. |
 
 </div>
 
-<!-- ===================== 12. ACHIEVEMENTS ===================== -->
-## 🏆 Achievements
-
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|---|---|---|
-| 🚀 | Java Apps Shipped | Developed & deployed **3 Java applications** on Apache Tomcat |
-| 🧩 | DSA Practice | Solved **50+ Data Structures & Algorithms** problems |
-| 🧱 | OOP Implementation | Applied OOP, Collections & Exception Handling in **2+ projects** |
-| 🔁 | Workflow Management | Streamlined version control & builds using **Git and Maven** |
-
-</div>
 
 <!-- ===================== 13. EDUCATION + CURRENTLY LEARNING + FOOTER ===================== -->
 ## 🎓 Education
@@ -147,6 +144,13 @@
 ☁️ AWS Cloud     → EC2, S3, Deployment Pipelines
 🧠 DSA           → Advanced Problem Solving
 ```
+## 📫 Connect with Me
+
+📧 [email](yashodhayash45@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/yashodha-s0405/)
+
+🌐 [GitHub](https://github.com/Yashodha-S452003)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer wave"/>
